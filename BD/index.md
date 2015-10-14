@@ -1,13 +1,13 @@
 ---
 layout: tree
 type: tree
-title: BnS Tree - Summoner
-job: SU
-fullname: Summoner
-difficulty: ●●○○○
+title: BnS Tree - Lyn Blade Master
+job: BD
+fullname: Lyn Blade Master
+difficulty: ●●◐○○
 race: Lyn
-youtube: https://www.youtube-nocookie.com/embed/Jms-nORWKlg?rel=0&amp;controls=0&amp;showinfo=0&enablejsapi=1
+youtube: https://www.youtube-nocookie.com/embed/kshVx2xIqzc?rel=0&amp;controls=0&amp;showinfo=0&enablejsapi=1
 ---
-Summoners fight with their pet and summons to perform various attacks.
+Lyn Blade Masters use swords to perform powerful melee attacks.
 
-Using the power of nature and teamwork, they rely on cooperation and control to deal with various forms of situations.
+They can incapacitate foes by grabbing them from afar and deal lots of damage by unleashing a torrent of attacks.
